@@ -1,4 +1,4 @@
-# **Ahmad AlSabbagh (Nots)**
+# **Ahmad AlSabbagh (Notes)**
 ## 1. Day (One)
 
 
