@@ -28,3 +28,4 @@
 3. Add a extension to provide us when we write and make it more esayer.
 
 Follow me in GitHub by clicking [Here!](https://github.com/sabbagh99)
+![Check out this COOL penguin!](/images/penguins.jpg)
