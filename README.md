@@ -11,7 +11,7 @@
 
 ***`Ahmad Al Sabbagh`, My nots URL: https://sabbagh99.github.io/reading-notes/***
 
-## **And we learn how to prepare our laptops to start useing wsl, And visual stedio  we can define at as a text editor programe we use it to write a HTML, CSS, JS**
+#### **And we learn how to prepare our laptops to start useing wsl, And visual stedio  we can define at as a text editor programe we use it to write a HTML, CSS, JS**
 
 * Benefit of visual stedio than outher app is 
 1. Can help us with writing codes.
