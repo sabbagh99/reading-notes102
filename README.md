@@ -1,11 +1,17 @@
 # **Ahmad Al Sabbagh (Notes)**
-## 1. Day (One)
+#### 1. Day (One)
 
+##### *Growth mindset:
 
+ * **Growth mindset, for me i think that is very good thing and we have all to do it in a certain point or a certain situation and all of us have to use it for  solve our issue and mistakes.**
+ To keep your self in a growth mindset you should do tis steps:
+ -Practice mindfulness.
+ -Trust yourself.
+ -Embrace failure
+ 
 
-* *Today we do GitHub account and we leran a little bit about Markdown defination.*
-
-* *Then we know what is a growth mindset, for me i think that is very good thing and we have all to do it in a certain point or a certain situation.*
+* **And we do a GitHub account, actually GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.**
+* **As well as we konw what the markdown is, so Markdown is a lightweight markup language with plain-text-formatting syntax.**
 
 * *I can describe my self today vary confused person aftar i see the software engineering program and maybe one day i will remember this feeling.*
 
