@@ -6,11 +6,11 @@
  * **Growth mindset, for me i think that is very good thing and we have all to do it in a certain point or a certain situation and all of us have to use it for  solve our issue and mistakes.**
  To keep your self in a growth mindset you should do tis steps:
  
-1. _Practice mindfulness.
+1. *Practice mindfulness.*
  
-2. _Trust yourself.
+2. *Trust yourself.*
  
-3. _Embrace failure
+3. *Embrace failure*
  
 
 * **And we do a GitHub account, actually GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.**
