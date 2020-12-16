@@ -12,7 +12,7 @@
  
 3. *Embrace failure*
  
-### * Markdown on GitHub:
+* ### Markdown on GitHub:
 
 1. **And we do a GitHub account, actually GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.**
 2. **As well as we konw what the markdown is, so Markdown is a lightweight markup language with plain-text-formatting syntax.**
