@@ -1,5 +1,5 @@
 ## Day (2)
-### *class04 
+* ### class04 
 
 #### **So todany in class nuber four we will do to many thang and wh have to read some book then we will work in VS and leran how yo use git and use A-C-P method so from now on we will our nots by VS and upload it to github by using git as i mintined in the above we will read some books the book for today is Duckett book this book its talking about how you can start useing html and css from scratch i think its a very good book for us i will leave the link of this book in the end.**
 
