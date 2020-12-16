@@ -6,6 +6,5 @@
 > 2. start building  a html from structure.
 
     > we will start doing html page from A to Z.
- 
- ##### **so we will use semantic tag to organize our work and its easier to understand for other developer when see it .**
+##### **so we will use semantic tag to organize our work and its easier to understand for other developer when see it .**
 * ##### Follow  me in GitHub [page](https://github.com/sabbagh99)
