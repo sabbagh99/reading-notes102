@@ -7,7 +7,9 @@
 * Subtraction -
 * Multiplication *
 * Division / 
->  ### And its have a priority:
+
+    >  **And its have a priority:**
+    
 Always from left to right
 1. parenthesis  () 
 2. Multiplication and division 
